@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Christian Schroeder Resume"
-tags: aboutMe
+title: "Resume"
+tags: Resume
 ---
 
 # <a name="top"></a>Christian Schroeder
