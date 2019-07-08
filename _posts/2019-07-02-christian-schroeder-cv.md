@@ -3,7 +3,6 @@ layout: default
 title: "Resume"
 tags: resume
 ---
-
 # <a name="top"></a>Christian Schroeder
 
 * [Objective](#Objective)
