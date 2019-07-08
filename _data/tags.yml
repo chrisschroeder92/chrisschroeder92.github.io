@@ -1,8 +1,8 @@
-Resume:
-  name: Resume
+blog:
+  name: blog
 
-Blog:
-  name: Blog
+resume:
+  name: resume
 
 tag3:
   name: tag3
